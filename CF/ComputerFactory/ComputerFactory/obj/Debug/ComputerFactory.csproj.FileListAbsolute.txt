@@ -1,0 +1,9 @@
+C:\development\textgenerator\CF\ComputerFactory\ComputerFactory\bin\Debug\ComputerFactory.exe.config
+C:\development\textgenerator\CF\ComputerFactory\ComputerFactory\bin\Debug\ComputerFactory.exe
+C:\development\textgenerator\CF\ComputerFactory\ComputerFactory\bin\Debug\ComputerFactory.pdb
+C:\development\textgenerator\CF\ComputerFactory\ComputerFactory\obj\Debug\ComputerFactory.csprojResolveAssemblyReference.cache
+C:\development\textgenerator\CF\ComputerFactory\ComputerFactory\obj\Debug\ComputerFactory.exe
+C:\development\textgenerator\CF\ComputerFactory\ComputerFactory\obj\Debug\ComputerFactory.pdb
+C:\development\computerfactory\computerfactory\CF\ComputerFactory\ComputerFactory\bin\Debug\ComputerFactory.exe.config
+C:\development\computerfactory\computerfactory\CF\ComputerFactory\ComputerFactory\obj\Debug\ComputerFactory.exe
+C:\development\computerfactory\computerfactory\CF\ComputerFactory\ComputerFactory\obj\Debug\ComputerFactory.pdb
